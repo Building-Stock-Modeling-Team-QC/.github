@@ -1,2 +1,1 @@
-# .github
-Building Stock Modeling Team QC
+# Building Stock Modeling Team QC
